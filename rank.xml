@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?> <!-- xml은 doc type처럼 처음에 선언해줘야함 -->
+<result>
+    <item>
+        <rank>
+            <j>아이유</j>
+        </rank>
+    </item>
+    <item>
+        <rank>
+            <j>이효리</j>
+        </rank>
+    </item>
+    <item>
+        <rank>
+            <j>소방차</j>
+        </rank>
+    </item>
+</result>
+
